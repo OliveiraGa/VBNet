@@ -23,6 +23,7 @@ Partial Class Frm_TelaPrincipal
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Btn_Principal = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Btn_Principal
@@ -34,11 +35,21 @@ Partial Class Frm_TelaPrincipal
         Me.Btn_Principal.Text = "Teste 1"
         Me.Btn_Principal.UseVisualStyleBackColor = True
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(85, 106)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Frm_TelaPrincipal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(322, 203)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Btn_Principal)
         Me.Name = "Frm_TelaPrincipal"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -48,4 +59,5 @@ Partial Class Frm_TelaPrincipal
     End Sub
 
     Friend WithEvents Btn_Principal As Button
+    Friend WithEvents Button1 As Button
 End Class
