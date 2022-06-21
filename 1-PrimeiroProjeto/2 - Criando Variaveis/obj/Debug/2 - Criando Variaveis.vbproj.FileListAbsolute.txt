@@ -1,0 +1,12 @@
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\bin\Debug\2 - Criando Variaveis.exe.config
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\bin\Debug\2 - Criando Variaveis.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\bin\Debug\2 - Criando Variaveis.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\bin\Debug\2 - Criando Variaveis.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\2 - Criando Variaveis.vbproj.AssemblyReference.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\_2___Criando_Variaveis.Resources.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\2 - Criando Variaveis.vbproj.GenerateResource.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\2 - Criando Variaveis.vbproj.CoreCompileInputs.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\2 - Criando Variaveis.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\2 - Criando Variaveis.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\2 - Criando Variaveis.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\2 - Criando Variaveis\obj\Debug\_2___Criando_Variaveis.Frm_TelaPrincipal_02.resources

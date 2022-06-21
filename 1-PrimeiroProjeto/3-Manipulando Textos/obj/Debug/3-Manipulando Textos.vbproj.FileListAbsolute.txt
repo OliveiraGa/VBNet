@@ -1,0 +1,12 @@
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\bin\Debug\3-Manipulando Textos.exe.config
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\bin\Debug\3-Manipulando Textos.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\bin\Debug\3-Manipulando Textos.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\bin\Debug\3-Manipulando Textos.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\3-Manipulando Textos.vbproj.AssemblyReference.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\_3_Manipulando_Textos.Frm_Princiapl_03.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\_3_Manipulando_Textos.Resources.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\3-Manipulando Textos.vbproj.GenerateResource.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\3-Manipulando Textos.vbproj.CoreCompileInputs.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\3-Manipulando Textos.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\3-Manipulando Textos.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\3-Manipulando Textos\obj\Debug\3-Manipulando Textos.pdb
