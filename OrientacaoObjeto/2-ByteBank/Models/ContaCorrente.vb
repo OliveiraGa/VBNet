@@ -1,9 +1,16 @@
-﻿Public Class ContaCorrente
-    Public Titular As String
+﻿Imports _2_ByteBank.ByteBank
+
+Public Class ContaCorrente
+    Public Titular As Cliente
     Public Agencia As Integer
     Public Conta As Integer
-    Public Saldo As Double = 100
     Public Extrato As String = ""
+
+    Private Saldo As Double = 100
+    Public Function GetSaldo() As Double
+        Return Saldo
+    End Function
+
 
 
     Public Function Sacar(ByVal ValorSacar As Double) As Boolean
