@@ -3,12 +3,14 @@
     Dim ContaGabriela As New ContaCorrente
     Dim ContaBruno As New ContaCorrente
 
+
     Public Sub New()
 
         ' This call is required by the designer.
         InitializeComponent()
 
-        ' Add any initialization after the InitializeComponent() call...
+        ' Add any initialization after the InitializeComponent() call.
+
 
         ContaGabriela.Titular = "Gabriela"
         ContaGabriela.Agencia = 863
@@ -21,7 +23,6 @@
         ContaBruno.Conta = 863142
         lblBemVindoBruno.Text = $"Bem vindo(a) {ContaBruno.Titular} Agência: {ContaBruno.Agencia} C/C: {ContaBruno.Conta}"
         Me.txtSaldoAtualBruno.Text = ContaBruno.Saldo
-
 
     End Sub
 
@@ -134,5 +135,6 @@
         End If
 
     End Sub
+
 
 End Class

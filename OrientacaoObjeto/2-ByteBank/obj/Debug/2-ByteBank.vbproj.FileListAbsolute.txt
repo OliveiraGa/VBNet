@@ -1,0 +1,12 @@
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\bin\Debug\2-ByteBank.exe.config
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\bin\Debug\2-ByteBank.exe
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\bin\Debug\2-ByteBank.pdb
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\bin\Debug\2-ByteBank.xml
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\2-ByteBank.vbproj.AssemblyReference.cache
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\_2_ByteBank.Frm_Principal_02.resources
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\_2_ByteBank.Resources.resources
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\2-ByteBank.vbproj.GenerateResource.cache
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\2-ByteBank.vbproj.CoreCompileInputs.cache
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\2-ByteBank.exe
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\2-ByteBank.xml
+C:\GitProjects\VBNet\OrientacaoObjeto\2-ByteBank\obj\Debug\2-ByteBank.pdb

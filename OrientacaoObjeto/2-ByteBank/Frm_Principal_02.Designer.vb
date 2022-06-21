@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Frm_Principal_02
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Frm_Principal_02
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.lblPrincipal02 = New System.Windows.Forms.Label()
         Me.btnSacar = New System.Windows.Forms.Button()
@@ -35,7 +35,9 @@ Partial Class Frm_Principal_02
         Me.txtExtrato = New System.Windows.Forms.TextBox()
         Me.lblExtrato = New System.Windows.Forms.Label()
         Me.grpGabriela = New System.Windows.Forms.GroupBox()
+        Me.btnTranferirGabriela = New System.Windows.Forms.Button()
         Me.grpBruno = New System.Windows.Forms.GroupBox()
+        Me.btnTransferirBruno = New System.Windows.Forms.Button()
         Me.lblBemVindoBruno = New System.Windows.Forms.Label()
         Me.lblExtratoBruno = New System.Windows.Forms.Label()
         Me.btnSacarBruno = New System.Windows.Forms.Button()
@@ -47,8 +49,6 @@ Partial Class Frm_Principal_02
         Me.txtResultadoBruno = New System.Windows.Forms.TextBox()
         Me.lblSaldoAtualBruno = New System.Windows.Forms.Label()
         Me.txtSaldoAtualBruno = New System.Windows.Forms.TextBox()
-        Me.btnTranferirGabriela = New System.Windows.Forms.Button()
-        Me.btnTransferirBruno = New System.Windows.Forms.Button()
         Me.grpGabriela.SuspendLayout()
         Me.grpBruno.SuspendLayout()
         Me.SuspendLayout()
@@ -58,9 +58,9 @@ Partial Class Frm_Principal_02
         Me.lblPrincipal02.AutoSize = True
         Me.lblPrincipal02.Location = New System.Drawing.Point(12, 9)
         Me.lblPrincipal02.Name = "lblPrincipal02"
-        Me.lblPrincipal02.Size = New System.Drawing.Size(165, 13)
+        Me.lblPrincipal02.Size = New System.Drawing.Size(62, 13)
         Me.lblPrincipal02.TabIndex = 0
-        Me.lblPrincipal02.Text = "1 - Primeira Classe - Formulário 02"
+        Me.lblPrincipal02.Text = "2-ByteBank"
         '
         'btnSacar
         '
@@ -184,6 +184,15 @@ Partial Class Frm_Principal_02
         Me.grpGabriela.TabStop = False
         Me.grpGabriela.Text = "Gabriela"
         '
+        'btnTranferirGabriela
+        '
+        Me.btnTranferirGabriela.Location = New System.Drawing.Point(6, 214)
+        Me.btnTranferirGabriela.Name = "btnTranferirGabriela"
+        Me.btnTranferirGabriela.Size = New System.Drawing.Size(234, 23)
+        Me.btnTranferirGabriela.TabIndex = 16
+        Me.btnTranferirGabriela.Text = "Transferir"
+        Me.btnTranferirGabriela.UseVisualStyleBackColor = True
+        '
         'grpBruno
         '
         Me.grpBruno.Controls.Add(Me.btnTransferirBruno)
@@ -204,6 +213,15 @@ Partial Class Frm_Principal_02
         Me.grpBruno.TabIndex = 17
         Me.grpBruno.TabStop = False
         Me.grpBruno.Text = "Bruno"
+        '
+        'btnTransferirBruno
+        '
+        Me.btnTransferirBruno.Location = New System.Drawing.Point(6, 214)
+        Me.btnTransferirBruno.Name = "btnTransferirBruno"
+        Me.btnTransferirBruno.Size = New System.Drawing.Size(234, 23)
+        Me.btnTransferirBruno.TabIndex = 16
+        Me.btnTransferirBruno.Text = "Transferir"
+        Me.btnTransferirBruno.UseVisualStyleBackColor = True
         '
         'lblBemVindoBruno
         '
@@ -306,24 +324,6 @@ Partial Class Frm_Principal_02
         Me.txtSaldoAtualBruno.Size = New System.Drawing.Size(235, 20)
         Me.txtSaldoAtualBruno.TabIndex = 9
         '
-        'btnTranferirGabriela
-        '
-        Me.btnTranferirGabriela.Location = New System.Drawing.Point(6, 214)
-        Me.btnTranferirGabriela.Name = "btnTranferirGabriela"
-        Me.btnTranferirGabriela.Size = New System.Drawing.Size(234, 23)
-        Me.btnTranferirGabriela.TabIndex = 16
-        Me.btnTranferirGabriela.Text = "Transferir"
-        Me.btnTranferirGabriela.UseVisualStyleBackColor = True
-        '
-        'btnTransferirBruno
-        '
-        Me.btnTransferirBruno.Location = New System.Drawing.Point(6, 214)
-        Me.btnTransferirBruno.Name = "btnTransferirBruno"
-        Me.btnTransferirBruno.Size = New System.Drawing.Size(234, 23)
-        Me.btnTransferirBruno.TabIndex = 16
-        Me.btnTransferirBruno.Text = "Transferir"
-        Me.btnTransferirBruno.UseVisualStyleBackColor = True
-        '
         'Frm_Principal_02
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -334,7 +334,7 @@ Partial Class Frm_Principal_02
         Me.Controls.Add(Me.lblPrincipal02)
         Me.Name = "Frm_Principal_02"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "1 - Primeira Classe - Formulário 02"
+        Me.Text = "ByteBank"
         Me.grpGabriela.ResumeLayout(False)
         Me.grpGabriela.PerformLayout()
         Me.grpBruno.ResumeLayout(False)
