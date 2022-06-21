@@ -1,0 +1,13 @@
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\bin\Debug\1-PrimeiraClasse.exe.config
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\bin\Debug\1-PrimeiraClasse.exe
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\bin\Debug\1-PrimeiraClasse.pdb
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\bin\Debug\1-PrimeiraClasse.xml
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\1-PrimeiraClasse.vbproj.AssemblyReference.cache
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\_1_PrimeiraClasse.Frm_Principal_01.resources
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\_1_PrimeiraClasse.Resources.resources
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\1-PrimeiraClasse.vbproj.GenerateResource.cache
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\1-PrimeiraClasse.vbproj.CoreCompileInputs.cache
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\1-PrimeiraClasse.exe
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\1-PrimeiraClasse.xml
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\1-PrimeiraClasse.pdb
+C:\GitProjects\VBNet\OrientacaoObjeto\1-PrimeiraClasse\obj\Debug\_1_PrimeiraClasse.Frm_Principal_02.resources
