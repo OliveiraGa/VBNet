@@ -1,0 +1,12 @@
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\bin\Debug\4-Controle de Fluxo.exe.config
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\bin\Debug\4-Controle de Fluxo.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\bin\Debug\4-Controle de Fluxo.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\bin\Debug\4-Controle de Fluxo.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\_4_Controle_de_Fluxo.Frm_Principal_04.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\_4_Controle_de_Fluxo.Resources.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\4-Controle de Fluxo.vbproj.GenerateResource.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\4-Controle de Fluxo.vbproj.CoreCompileInputs.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\4-Controle de Fluxo.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\4-Controle de Fluxo.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\4-Controle de Fluxo.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\4-Controle de Fluxo\obj\Debug\4-Controle de Fluxo.vbproj.AssemblyReference.cache

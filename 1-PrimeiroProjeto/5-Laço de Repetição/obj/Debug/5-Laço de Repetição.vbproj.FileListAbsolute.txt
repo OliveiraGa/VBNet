@@ -1,0 +1,12 @@
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\bin\Debug\5-Laço de Repetição.exe.config
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\bin\Debug\5-Laço de Repetição.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\bin\Debug\5-Laço de Repetição.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\bin\Debug\5-Laço de Repetição.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\5-Laço de Repetição.vbproj.AssemblyReference.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\_5_Laço_de_Repetição.Frm_TelaPrincipal_05.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\_5_Laço_de_Repetição.Resources.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\5-Laço de Repetição.vbproj.GenerateResource.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\5-Laço de Repetição.vbproj.CoreCompileInputs.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\5-Laço de Repetição.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\5-Laço de Repetição.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\5-Laço de Repetição\obj\Debug\5-Laço de Repetição.pdb

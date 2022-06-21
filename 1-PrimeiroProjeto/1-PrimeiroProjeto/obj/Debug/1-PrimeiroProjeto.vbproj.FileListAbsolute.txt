@@ -10,3 +10,15 @@ D:\GitHub\Projects\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-Primeir
 D:\GitHub\Projects\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.xml
 D:\GitHub\Projects\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
 D:\GitHub\Projects\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\_1_PrimeiroProjeto.Frm_TelaPrincipal.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.AssemblyReference.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\_1_PrimeiroProjeto.Frm_TelaPrincipal.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\_1_PrimeiroProjeto.Resources.resources
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.GenerateResource.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.CoreCompileInputs.cache
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.xml
+D:\GitHub\Projetos\VBNet\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
